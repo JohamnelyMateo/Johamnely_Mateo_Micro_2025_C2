@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1748389527 source:c:\users\joham\onedrive\escritorio\cuatri 6\microcontroladores\ms1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
